@@ -10,6 +10,29 @@
 - ✨ Love researching better architectures and their implementation.
 - 📢 Try to inspire students into learning skills and share my knowledge with them
 - 🎯 A major goal is to help students with flutter
+
+<div align="center">
+
+<a href="https://github.com/usamasarwar/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a>
+
+<a href="https://www.linkedin.com/in/shahzadubaig/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+
+<a href="https://web.facebook.com/ShahzadUmarBaig/?_rdc=1&_rdr">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+
+<a href="mailto:ShahzadUBaig@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
+
+<a href="https://stackoverflow.com/users/14641365/shahzad-umar-baig">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a href="https://shahzadumarbaig.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</div>
 <!--
 
 ### Hi there 👋
