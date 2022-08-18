@@ -3,7 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" /> </p>
 <hr/>
 
-### Who am I ? 👨‍💻
+<!-- ### Who am I ? 👨‍💻 -->
+<h2 align="center">Who am I ?  <img src="https://media.giphy.com/media/XtBEe1CMeYR4n818rq/giphy.gif" height="30px" width="30px"></h2>
 
 - 💻 I am currently working as a flutter developer.
 - 🌱 Learning Swift and SwiftUI for iOS App Development.
