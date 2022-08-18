@@ -2,13 +2,14 @@
 <h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" /> </p>
 <hr/>
+
 # Who am I? 👨‍💻
 
 - 💻 I am currently working as a flutter developer.
 - 🌱 Learning Swift and SwiftUI for iOS App Development.
 - ✨ Love researching better architectures and their implementation.
 - 📢 Try to inspire students into learning skills and share my knowledge with them
-- 🎯A major goal is to help students with flutter
+- 🎯 A major goal is to help students with flutter
 <!--
 
 ### Hi there 👋
