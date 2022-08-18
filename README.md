@@ -56,3 +56,15 @@
   <br><br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
+
+<h2 align="center">Github Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/ShahzadUmarBaig/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadUmarBaig&theme=react&border=61dafb&hide_border=true" alt="ShahzadUmarBaig" />
+    </a>
+    <a href="https://github.com/ShahzadUmarBaig/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
