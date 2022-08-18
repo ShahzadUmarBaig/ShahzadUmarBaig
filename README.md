@@ -11,6 +11,8 @@
 - 📢 Try to inspire students into learning skills and share my knowledge with them
 - 🎯 A major goal is to help students with flutter
 
+<h2 align="center"> Let's Connect 🔥</h2>
+
 <div align="center">
 
 <a href="https://github.com/usamasarwar/">
