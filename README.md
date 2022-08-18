@@ -4,7 +4,7 @@
 <hr/>
 
 <!-- ### Who am I ? 👨‍💻 -->
-<h2 align="left">Who am I ?  <img src="https://media.giphy.com/media/XtBEe1CMeYR4n818rq/giphy.gif" height="30px" width="30px"></h2>
+<h2 align="left">Who am I ?  <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="30px" width="30px"></h2>
 
 - 💻 I am currently working as a flutter developer.
 - 🌱 Learning Swift and SwiftUI for iOS App Development.
