@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahzad Umar Baig :octocat: </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">, I'm Shahzad Umar Baig :octocat: </h1>
 <h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" /> </p>
 <hr/>
