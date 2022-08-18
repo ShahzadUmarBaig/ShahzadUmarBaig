@@ -38,7 +38,7 @@
 </div>
 
 <!-- # Some Acomplishments: 🚀 -->
-<h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/fKETksW97z52ZobFpG/giphy.gif" height="25px" width="25px"></h2>
+<h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
 
 - 🥇 Certified Flutter Developer from London App Brewery
 - 🥈 Ex Core Team Member @ Developer Students Club SMIU by Google
