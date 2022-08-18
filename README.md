@@ -35,26 +35,10 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
-<!--
 
-### Hi there 👋
+# Some Acomplishments: 🚀
 
-### My Github Stats:
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShahzadUmarBaig)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-**ShahzadUmarBaig/ShahzadUmarBaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- 🥇 Certified Flutter Developer from London App Brewery
+- 🥈 Ex Core Team Member @ Developer Students Club SMIU by Google
+- 🥉 Ex Beta Microsoft Learn Student Ambassador
+- 🏅 Conducted boot camps on flutter for different communities
