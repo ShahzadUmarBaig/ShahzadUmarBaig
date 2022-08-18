@@ -11,7 +11,7 @@
 - 📢 Try to inspire students into learning skills and share my knowledge with them
 - 🎯 A major goal is to help students with flutter
 
-<h2 align="center"> Let's Connect 🔥</h2>
+<h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" height="35px" width="35px"></h2>
 
 <div align="center">
 
