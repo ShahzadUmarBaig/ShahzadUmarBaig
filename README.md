@@ -8,9 +8,11 @@
 
 <h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" /><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/ShahzadUmarBaig/fluttercapsule?style=social">
-
- </p>
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
+ </div>
 <hr/>
 
 <!-- ### Who am I ? 👨‍💻 -->
