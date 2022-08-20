@@ -69,6 +69,6 @@
   </div>
 </p>
 
-<h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
+<h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="30px" width="30px"></h2>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ShahzadUmarBaig/ShahzadUmarBaig/blob/output/github-contribution-grid-snake.svg)
