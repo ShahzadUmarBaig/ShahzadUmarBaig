@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I'm Shahzad Umar Baig :octocat: </h1>
 
+<div align="center>
+
 [![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
+
+</div>
 
 <h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 
