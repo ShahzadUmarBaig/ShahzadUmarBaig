@@ -1,15 +1,16 @@
 <!-- Intor -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I'm Shahzad Umar Baig :octocat: </h1>
+<!-- Tagline -->
+<h3 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
+
 
 <!-- Badge -->
 <div align="center" >
 
-[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-London-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
+[![Certified Flutter Developer](https://img.shields.io/badge/Certified_Flutter_Developer-00B8D4?logo=flutter&logoColor=ffffff)](https://www.appbrewery.co/)
 
 </div>
 
-<!-- Tagline -->
-<h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 
 <!-- Badges -->
 <div align="center">
