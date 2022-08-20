@@ -9,7 +9,6 @@
 <h4 align="center">Flutter Developer @ Binary Builds from Karachi, Pakistan</h3>
 
 <div align="center">
-      ![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=ShahzadUmarBaig.ShahzadUmarBaig) 
       <img src="https://komarev.com/ghpvc/?username=ShahzadUmarBaig&label=Profile%20views&color=0e75b6&style=flat" alt="ShahzadUmarBaig" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/ShahzadUmarBaig?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShahzadUmarBaig?style=social">
