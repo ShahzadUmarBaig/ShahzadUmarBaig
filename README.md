@@ -1,7 +1,7 @@
 <!-- Intor -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I'm Shahzad Umar Baig :octocat: </h1>
+<h1 align="center">Hey there, I'm Shahzad Umar Baig 👋🏻💻</h1>
 <!-- Tagline -->
-<h3 align="center">Flutter Developer @ Blocship from Karachi, Pakistan</h3>
+<h3 align="center">🚀 Flutter Developer at Blocship from Karachi, Pakistan</h3>
 
 
 <!-- Badge -->
@@ -23,11 +23,19 @@
 <!-- Who I am Section -->
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
-- 💻 I am currently working as a flutter developer.
-- 🌱 Learning Swift and SwiftUI for iOS App Development.
-- ✨ Love researching better architectures and their implementation.
-- 📢 Try to inspire students into learning skills and share my knowledge with them
-- 🎯 A major goal is to help students with flutter
+I am a passionate flutter developer, always on the lookout for new and exciting challenges. I have experience in building high-quality, user-friendly apps and I am always researching new architectures and their implementation. I am also currently learning Swift and SwiftUI for iOS app development.
+
+In addition to my work as a developer, I also enjoy helping students learn new skills and sharing my knowledge with them. I am dedicated to helping the next generation of developers succeed and I am always looking for ways to inspire and support them.
+
+I am excited to share my work with you and I am open to collaborate with you on any project that you think I could be a valuable asset for.
+
+So take a look around, check out my projects and let's create something amazing together!
+
+- 💻 Coding
+- 🌱 Learning new Technologies
+- ✨ Researching new Architecture and Implementation
+- 📢 Inspiring students
+- 🎯 Helping students with Flutter
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
 
@@ -55,10 +63,10 @@
 <!-- Some Acomplishments Section-->
 <h2 align="left">Some Acomplishments<img src="https://media.giphy.com/media/4KgqTAyBHBvNmjeuGE/giphy.gif" height="30px" width="30px"></h2>
 
-- 🥇 Certified Flutter Developer from London App Brewery
-- 🥈 Ex Core Team Member @ Developer Students Club SMIU by Google
-- 🥉 Ex Beta Microsoft Learn Student Ambassador
-- 🏅 Conducted boot camps on flutter for different communities
+- 🚀 Achieved the title of "Certified Flutter Developer" from London App Brewery
+- 💪 Ex-Core Team Member of the Developer Students Club SMIU by Google
+- 🎓 Trained and mentored students as an ex-Beta Microsoft Learn Student Ambassador
+- 🔥 Conducted successful boot camps on Flutter for various communities, spreading the knowledge and love for the technology!
 
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
