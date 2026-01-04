@@ -1,3 +1,6 @@
+<!-- Quote Header -->
+<h4 align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</h4>
+
 <!-- Typing Animation Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -161,7 +164,7 @@ I believe in writing clean, maintainable code and staying ahead of the curve by 
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=ShahzadUmarBaig&theme=react&hide_border=true" alt="Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=ShahzadUmarBaig&theme=react&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
@@ -174,7 +177,7 @@ I believe in writing clean, maintainable code and staying ahead of the curve by 
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShahzadUmarBaig&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ShahzadUmarBaig&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -202,9 +205,4 @@ I believe in writing clean, maintainable code and staying ahead of the curve by 
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<!-- Quote -->
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
 </div>
