@@ -177,7 +177,9 @@ I believe in writing clean, maintainable code and staying ahead of the curve by 
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=ShahzadUmarBaig&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShahzadUmarBaig&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <br/>
