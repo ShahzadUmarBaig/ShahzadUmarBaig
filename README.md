@@ -160,14 +160,14 @@ I believe in writing clean, maintainable code and staying ahead of the curve by 
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzadUmarBaig&theme=react&border=61dafb&hide_border=true" alt="Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShahzadUmarBaig&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=ShahzadUmarBaig&theme=react&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=react&layout=compact&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShahzadUmarBaig&theme=react&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
