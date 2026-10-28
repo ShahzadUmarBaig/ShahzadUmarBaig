@@ -1,0 +1,60 @@
+# Regenerates the live parts of the profile README (stat cards + contribution
+# snake) and publishes them to the `generated` branch, which the README embeds
+# via raw.githubusercontent.com. Static art in assets/ is built locally with
+# scripts/build_assets.py and committed to main.
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, revamp]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install font tooling
+        run: pip install --quiet fonttools brotli
+
+      - name: Render stat cards
+        env:
+          # Optional PROFILE_TOKEN (classic PAT: repo, read:user, read:org) also
+          # counts private PRs, repos and language bytes. Falls back to the
+          # built-in token, which only sees public data.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: python scripts/build_stats.py dist
+
+      - name: Render contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#22D3EE&color_dots=#141A30,#1D4ED8,#7C3AED,#C026D3,#EC4899
+            dist/snake-light.svg?color_snake=#0E9FBF&color_dots=#E4E9FB,#A5B4FC,#8B5CF6,#D946EF,#EC4899
+
+      - name: Publish to the generated branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: generated
+          build_dir: dist
+          commit_message: "chore: regenerate profile assets"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
