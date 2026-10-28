@@ -49,6 +49,17 @@ jobs:
             dist/snake.svg?color_snake=#22D3EE&color_dots=#141A30,#1D4ED8,#7C3AED,#C026D3,#EC4899
             dist/snake-light.svg?color_snake=#0E9FBF&color_dots=#E4E9FB,#A5B4FC,#8B5CF6,#D946EF,#EC4899
 
+      - name: Trim the snake (drop snk's progress stack, crop the viewBox)
+        run: |
+          python - <<'PY'
+          import re, pathlib
+          for f in ("dist/snake.svg", "dist/snake-light.svg"):
+              p = pathlib.Path(f); s = p.read_text()
+              s = re.sub(r'<rect class="u [^"]*"[^>]*/>', "", s)
+              s = s.replace('viewBox="-16 -32 880 192" width="880" height="192"', 'viewBox="-16 -16 880 144" width="880" height="144"')
+              p.write_text(s)
+          PY
+
       - name: Publish to the generated branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
